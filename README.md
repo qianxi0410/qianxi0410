@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on HNU
+- 🌱 I’m currently learning computing science
+- 👯 I’m looking to collaborate on bytedance
+- 💬 Ask me about java/javascript
+- 📫 How to reach me: 47.111.224.46
+- ⚡ Fun fact: nongthing emmm
