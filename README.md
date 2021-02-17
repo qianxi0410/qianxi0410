@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on bytedance
 - 💬 Ask me about java/javascript
 - 📫 How to reach me: 47.111.224.46
-- ⚡ Fun fact: nongthing emmm
+- ⚡ Fun fact: nothing emmm
