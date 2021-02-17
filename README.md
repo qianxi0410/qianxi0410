@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about java/javascript
 - 📫 How to reach me: 47.111.224.46
 - ⚡ Fun fact: nothing emmm
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
