@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on HNU
-- 🌱 I’m currently learning computing science
+- 🌱 I’m currently learning cs
 - 📫 How to reach me: 47.111.224.46
 
 
