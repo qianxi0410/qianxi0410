@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HNU
 - 🌱 I’m currently learning cs
-- 📫 How to reach me: 47.111.224.46
+- 📫 How to reach me: qianx1.top
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianxi0410&show_icons=true&theme=onedark)
