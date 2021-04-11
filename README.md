@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianxi0410&show_icons=true&theme=onedark&hider_border=true)
-![qianxi's github stats](https://github-readme-stats-tawny.vercel.app/api?username=qianxi&show_icons=true&hide_border=true)
+![qianxi's github stats](https://github-readme-stats-tawny.vercel.app/api?username=qianxi0410&show_icons=true&hide_border=true)
