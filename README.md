@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Gryffindor
 - 🌱 I’m currently learning front & back end's black magic
 - 📫 How to reach me: ~~qianx1.top~~
-
-![qianxi's github stats](https://github-readme-stats-tawny.vercel.app/api?username=qianxi0410&show_icons=true&hide_border=true)
