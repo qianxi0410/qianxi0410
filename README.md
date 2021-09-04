@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Gryffindor
+- 🔭 I’m currently working on Ravenclaw
 - 🌱 I’m currently learning front & back end's black magic
 - 📫 How to reach me: qianx1.top
