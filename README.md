@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ravenclaw
 - 🌱 I’m currently learning front & back end's black magic
-- 📫 How to reach me: qianx1.xyz
+- 📫 How to reach me: blog.qianx1.xyz
