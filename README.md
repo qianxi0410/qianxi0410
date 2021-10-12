@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning front & back end's black magic
 * 📫 How to reach me: blog.qianx1.xyz
 
-![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
