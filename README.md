@@ -1,4 +1,6 @@
-# ![cat](https://camo.githubusercontent.com/662490d98da872217819984322ada7eabdb0cf406f49e1efbfd6cdc27e164b3e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934) Hi there
+ 
+
+<h1> <img width="30" src="https://emojis.slackmojis.com/emojis/images/1619754656/34304/zzz_cat.gif?1619754656" alt="cat"> Hi there</h1>
 
 <!--
 **qianxi0410/qianxi0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +23,15 @@ Here are some ideas to get you started:
 * 🤔 Looking for internship
 
 ![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
+
+<kbd>2021-11-29</kbd>
+
+Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.   - Francis of Assisi
+
+<!-- Randomly taken from quotations.md -->
+
+<p align="right">
+<img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
+</p>
