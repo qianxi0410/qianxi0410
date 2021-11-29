@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 * 📫 How to reach me: [blog](https://blog.qianx1.xyz)
 * 🤔 Looking for internship
 
-![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
-
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
 <kbd>2021-11-29</kbd>
 
-Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.   - Francis of Assisi
+Friendship often ends in love, but love in friendship - never.   - Albert Camus
 
 <!-- Randomly taken from quotations.md -->
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
 </p>
+
+![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
