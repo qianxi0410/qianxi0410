@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-11-30</kbd>
+<kbd>2021-12-01</kbd>
 
-The final proof of greatness lies in being able to endure criticism without resentment.   - Elbert Hubbard
+He who knows, does not speak. He who speaks, does not know.   - Laozi
 
 <!-- Randomly taken from quotations.md -->
 
