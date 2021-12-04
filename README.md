@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-03</kbd>
+<kbd>2021-12-04</kbd>
 
-In all things of nature there is something of the marvelous.   - Aristotle
+The secret of getting ahead is getting started.   - Mark Twain
 
 <!-- Randomly taken from quotations.md -->
 
