@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-06</kbd>
+<kbd>2021-12-07</kbd>
 
-Change is the law of life. And those who look only to the past or present are certain to miss the future.   - John F. Kennedy
+The doors of wisdom are never shut.   - Benjamin Franklin
 
 <!-- Randomly taken from quotations.md -->
 
