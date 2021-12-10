@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-09</kbd>
+<kbd>2021-12-10</kbd>
 
-Change your thoughts and you change your world.   - Norman Vincent Peale
+The winds and waves are always on the side of the ablest navigators.   - Edward Gibbon
 
 <!-- Randomly taken from quotations.md -->
 
