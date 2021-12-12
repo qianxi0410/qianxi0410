@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-11</kbd>
+<kbd>2021-12-12</kbd>
 
-The best way to pay for a lovely moment is to enjoy it.   - Richard Bach
+In the middle of every difficulty lies opportunity.   - Albert Einstein
 
 <!-- Randomly taken from quotations.md -->
 
