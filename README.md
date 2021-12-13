@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-12</kbd>
+<kbd>2021-12-13</kbd>
 
-In the middle of every difficulty lies opportunity.   - Albert Einstein
+It is not uncommon for people to spend their whole life waiting to start living.   - Eckhart Tolle
 
 <!-- Randomly taken from quotations.md -->
 
