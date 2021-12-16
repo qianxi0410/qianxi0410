@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-15</kbd>
+<kbd>2021-12-16</kbd>
 
-No act of kindness, no matter how small, is ever wasted.   - Aesop
+How wonderful that we have met with a paradox. Now we have some hope of making progress.   - Niels Bohr
 
 <!-- Randomly taken from quotations.md -->
 
