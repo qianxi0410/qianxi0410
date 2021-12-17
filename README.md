@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-16</kbd>
+<kbd>2021-12-17</kbd>
 
-How wonderful that we have met with a paradox. Now we have some hope of making progress.   - Niels Bohr
+The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.   - Anaïs Nin
 
 <!-- Randomly taken from quotations.md -->
 
