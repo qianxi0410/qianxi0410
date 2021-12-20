@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-19</kbd>
+<kbd>2021-12-20</kbd>
 
-One today is worth two tomorrows.   - Benjamin Franklin
+The possibilities are numerous once we decide to act and not react.   - George Bernard Shaw
 
 <!-- Randomly taken from quotations.md -->
 
