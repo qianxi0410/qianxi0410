@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-20</kbd>
+<kbd>2021-12-21</kbd>
 
-The possibilities are numerous once we decide to act and not react.   - George Bernard Shaw
+I can't change the direction of the wind, but I can adjust my sails to always reach my destination.   - Jimmy Dean
 
 <!-- Randomly taken from quotations.md -->
 
