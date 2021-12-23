@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-22</kbd>
+<kbd>2021-12-23</kbd>
 
-When you reach the end of your rope, tie a knot in it and hang on.   - Franklin D. Roosevelt
+Keep your eyes on the stars and your feet on the ground.   - Theodore Roosevelt
 
 <!-- Randomly taken from quotations.md -->
 
