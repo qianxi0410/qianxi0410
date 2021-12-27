@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-27</kbd>
+<kbd>2021-12-28</kbd>
 
-If you love someone, set them free. If they come back, they're yours; if they don’t, they never were.   - Richard Bach
+You won't skid if you stay in a rut.   - Kin Hubbard
 
 <!-- Randomly taken from quotations.md -->
 
