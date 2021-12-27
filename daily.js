@@ -15,7 +15,7 @@ async function run() {
     let day = now.getDate();
     day = day < 10 ? `0${day}` : day;
     const date = `${year}-${month}-${day}`;
-    const { data: res } = await axios.get('https://api.quotable.io/random');
+    const { data: res } = await axios.get('https://api.quotable.io/random?maxLength=60');
     console.log(`quotations: ${res.content}`);
     const dayily = `${res.content}   - ${res.author}`;
 
