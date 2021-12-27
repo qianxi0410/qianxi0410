@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <kbd>2021-12-28</kbd>
 
-You won't skid if you stay in a rut.   - Kin Hubbard
+Time you enjoy wasting, was not wasted.   - John Lennon
 
 <!-- Randomly taken from quotations.md -->
 
