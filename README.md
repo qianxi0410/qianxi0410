@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-26</kbd>
+<kbd>2021-12-27</kbd>
 
-Every gift from a friend is a wish for your happiness. - Richard Bach
+If you love someone, set them free. If they come back, they're yours; if they don’t, they never were.   - Richard Bach
 
 <!-- Randomly taken from quotations.md -->
 
