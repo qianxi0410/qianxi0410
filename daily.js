@@ -8,7 +8,11 @@ async function run() {
     const index = readme.indexOf(Point);
     const before = readme.substring(0, index + 5);
 
-    const now = new Date();
+    const timezone = 8;
+    const offset_gmt = new Date().getTimezoneOffset();
+    const now_us = new Date().getTime();
+    const now = new Date(now_us + offset_gmt * 60 * 1000 + timezone * 60 * 60 * 1000);
+
     const year = now.getFullYear();
     let month = now.getMonth() + 1;
     month = month < 10 ? `0${month}` : month;
