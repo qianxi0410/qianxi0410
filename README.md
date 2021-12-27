@@ -1,5 +1,3 @@
- 
-
 <h1> <img width="30" src="https://emojis.slackmojis.com/emojis/images/1619754656/34304/zzz_cat.gif?1619754656" alt="cat"> Hi there</h1>
 
 <!--
@@ -17,16 +15,18 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-* 🔭 I’m currently working on Ravenclaw
-* 🌱 I’m currently learning front & back end's black magic
-* 📫 How to reach me: [blog](https://blog.qianx1.xyz)
-* 🤔 Looking for internship
+<img align="right" src="./gost.svg" style="width:300px;height=300px;">
+
+-   🔭 I’m currently working on Ravenclaw
+-   🌱 I’m currently learning front & back end's black magic
+-   📫 How to reach me: [blog](https://blog.qianx1.xyz)
+-   🤔 Looking for internship
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
 <kbd>2021-12-26</kbd>
 
-Every gift from a friend is a wish for your happiness.   - Richard Bach
+Every gift from a friend is a wish for your happiness. - Richard Bach
 
 <!-- Randomly taken from quotations.md -->
 
