@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-<img align="right" src="./gost.svg" style="width:300px;height=300px;">
+<img align="right" src="./gost.svg" style="width:30vw;height=20vh;">
 
 -   🔭 I’m currently working on Ravenclaw
 -   🌱 I’m currently learning front & back end's black magic
