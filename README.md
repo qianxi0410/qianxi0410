@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <kbd>2021-12-28</kbd>
 
-Time you enjoy wasting, was not wasted.   - John Lennon
+Love is composed of a single soul inhabiting two bodies.   - Aristotle
 
 <!-- Randomly taken from quotations.md -->
 
