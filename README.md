@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-28</kbd>
+<kbd>2021-12-29</kbd>
 
-Love is composed of a single soul inhabiting two bodies.   - Aristotle
+Be less curious about people and more curious about ideas.   - Marie Curie
 
 <!-- Randomly taken from quotations.md -->
 
