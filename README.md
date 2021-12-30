@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2021-12-30</kbd>
+<kbd>2021-12-31</kbd>
 
-Silence is the true friend that never betrays.   - Confucius
+It is not wisdom but Authority that makes a law.   - Thomas Hobbes
 
 <!-- Randomly taken from quotations.md -->
 
