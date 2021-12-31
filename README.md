@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <kbd>2021-12-31</kbd>
 
-It is not wisdom but Authority that makes a law.   - Thomas Hobbes
+You need chaos in your soul to give birth to a dancing star.   - Friedrich Nietzsche
 
 <!-- Randomly taken from quotations.md -->
 
