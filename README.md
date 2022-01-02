@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-01</kbd>
+<kbd>2022-01-02</kbd>
 
-Ignorance never settles a question.   - Benjamin Disraeli
+Don't look back. Something might be gaining on you.   - Satchel Paige
 
 <!-- Randomly taken from quotations.md -->
 
