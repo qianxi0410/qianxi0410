@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-02</kbd>
+<kbd>2022-01-03</kbd>
 
-Don't look back. Something might be gaining on you.   - Satchel Paige
+I think and that is all that I am.   - Wayne Dyer
 
 <!-- Randomly taken from quotations.md -->
 
