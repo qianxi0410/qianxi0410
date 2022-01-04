@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-03</kbd>
+<kbd>2022-01-04</kbd>
 
-I think and that is all that I am.   - Wayne Dyer
+You can observe a lot just by watching.   - Yogi Berra
 
 <!-- Randomly taken from quotations.md -->
 
