@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-05</kbd>
+<kbd>2022-01-06</kbd>
 
-Life without love is like a tree without blossoms or fruit.   - Kahlil Gibran
+When the solution is simple, God is answering.   - Albert Einstein
 
 <!-- Randomly taken from quotations.md -->
 
