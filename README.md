@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-12</kbd>
+<kbd>2022-01-13</kbd>
 
-The pine stays green in winter... wisdom in hardship.   - Norman Douglas
+See the positive side, the potential, and make an effort.   - Dalai Lama
 
 <!-- Randomly taken from quotations.md -->
 
