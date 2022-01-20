@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-19</kbd>
+<kbd>2022-01-20</kbd>
 
-Be your own hero, it's cheaper than a movie ticket.   - Doug Horton
+From error to error one discovers the entire truth.   - Sigmund Freud
 
 <!-- Randomly taken from quotations.md -->
 
