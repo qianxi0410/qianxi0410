@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-21</kbd>
+<kbd>2022-01-22</kbd>
 
-We know what we are but know not what we may be.   - William Shakespeare
+We must become the change we want to see.   - Mahatma Gandhi
 
 <!-- Randomly taken from quotations.md -->
 
