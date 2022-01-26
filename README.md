@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-25</kbd>
+<kbd>2022-01-26</kbd>
 
-Ignorance never settles a question.   - Benjamin Disraeli
+You can't stop the waves, but you can learn to surf.   - Jon Kabat-Zinn
 
 <!-- Randomly taken from quotations.md -->
 
