@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-27</kbd>
+<kbd>2022-01-29</kbd>
 
-Wisdom often times consists of knowing what to do next.   - Herbert Hoover
+I want my friend to miss me as long as I miss him.   - Augustine of Hippo
 
 <!-- Randomly taken from quotations.md -->
 
