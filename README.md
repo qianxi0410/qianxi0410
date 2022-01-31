@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="./gost.svg" style="width:20vw;height=10vh;">
 
--   🔭 I’m currently working on Ravenclaw
+-   🔭 I’m currently working on Rust
 -   🌱 I’m currently learning front & back end's black magic
 -   📫 How to reach me: [blog](https://blog.qianx1.xyz)
 -   🤔 Ｍanjaro Linux User
