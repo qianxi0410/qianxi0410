@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-01-31</kbd>
+<kbd>2022-02-01</kbd>
 
-Listen to what you know instead of what you fear.   - Richard Bach
+Freedom is what you do with what's been done to you.   - Jean-Paul Sartre
 
 <!-- Randomly taken from quotations.md -->
 
