@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-03</kbd>
+<kbd>2022-02-04</kbd>
 
-It is good even for old men to learn wisdom.   - Aeschylus
+A rolling stone gathers no moss.   - Publilius Syrus
 
 <!-- Randomly taken from quotations.md -->
 
