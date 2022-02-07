@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-06</kbd>
+<kbd>2022-02-07</kbd>
 
-Faith in oneself is the best and safest course.   - Michelangelo
+A thing well said will be wit in all languages.   - John Dryden
 
 <!-- Randomly taken from quotations.md -->
 
