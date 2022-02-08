@@ -32,6 +32,6 @@ The biggest room in the world is room for improvement.   - Helmut Schmidt
 <img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
 </p>
 
-<div id="weather">萍乡市      阴☁️       3℃ 🥶</div>
+<div id="weather">萍乡市&nbsp;&nbsp;阴☁️&nbsp;&nbsp;3℃ 🥶</div>
 
 ![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
