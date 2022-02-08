@@ -33,6 +33,6 @@ The biggest room in the world is room for improvement.   - Helmut Schmidt
 </p>
 
 ## weather info
-<div id="weather">萍乡市  阴☁️   3℃ 🥶</div>
+<div id="weather">萍乡市      阴☁️       3℃ 🥶</div>
 
 ![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
