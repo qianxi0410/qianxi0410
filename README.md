@@ -32,7 +32,7 @@ The biggest room in the world is room for improvement.   - Helmut Schmidt
 <img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
 </p>
 
-<span align="left" id="weather">
+<span class="float:left" align="left" id="weather">
  oops~
 </span>
 
