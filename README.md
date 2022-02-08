@@ -32,8 +32,9 @@ The biggest room in the world is room for improvement.   - Helmut Schmidt
 <img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
 </p>
 
-<span class="float:left" align="left" id="weather">
- oops~
-</span>
+## weather info
+<div id="weather">
+  this is weather info
+ </div>
 
 ![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
