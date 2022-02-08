@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 
 <img align="right" src="./gost.svg" style="width:20vw;height=10vh;">
 
--   🔭 I’m currently working on Rust
--   🌱 I’m currently learning front & back end's black magic
--   📫 How to reach me: [blog](https://blog.qianx1.xyz)
--   🤔 Ｍanjaro Linux User
+- 🔭 I’m currently working on Rust
+- 🌱 I’m currently learning front & back end's black magic
+- 📫 How to reach me: [blog](https://blog.qianx1.xyz)
+- 🤔 Manjaro Linux User
+
+<div id="weather">weather here</div>
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
 <kbd>2022-02-08</kbd>
 
-The biggest room in the world is room for improvement.   - Helmut Schmidt
+The biggest room in the world is room for improvement. - Helmut Schmidt
 
 <!-- Randomly taken from quotations.md -->
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=qianxi0410.qianxi0410" />
 </p>
-
-<div id="weather">萍乡市&nbsp;&nbsp;阴☁️&nbsp;&nbsp;3℃ 🥶</div>
 
 ![snake gif](https://github.com/qianxi0410/qianxi0410/blob/output/github-contribution-grid-snake.svg)
