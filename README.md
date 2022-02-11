@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-10</kbd>
+<kbd>2022-02-11</kbd>
 
-Nothing strengthens authority so much as silence.   - Leonardo da Vinci
+Our strength grows out of our weaknesses.   - Ralph Waldo Emerson
 
 <!-- Randomly taken from quotations.md -->
 
