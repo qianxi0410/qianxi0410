@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-17</kbd>
+<kbd>2022-02-18</kbd>
 
-Never find fault with the absent.   - Alexander Pope
+Love has no age, no limit; and no death.   - John Galsworthy
 
 <!-- Randomly taken from quotations.md -->
 
