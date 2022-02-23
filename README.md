@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-22</kbd>
+<kbd>2022-02-23</kbd>
 
-Let the beauty of what you love be what you do.   - Rumi
+He who is fixed to a star does not change his mind.   - Leonardo da Vinci
 
 <!-- Randomly taken from quotations.md -->
 
