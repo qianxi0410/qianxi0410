@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-26</kbd>
+<kbd>2022-02-27</kbd>
 
-Be less curious about people and more curious about ideas.   - Marie Curie
+The fall of dropping water wears away the Stone.   - Lucretius
 
 <!-- Randomly taken from quotations.md -->
 
