@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-02-27</kbd>
+<kbd>2022-02-28</kbd>
 
-The fall of dropping water wears away the Stone.   - Lucretius
+Nature takes away any faculty that is not used.   - William Inge
 
 <!-- Randomly taken from quotations.md -->
 
