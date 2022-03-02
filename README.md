@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-01</kbd>
+<kbd>2022-03-02</kbd>
 
-What we achieve inwardly will change outer reality.   - Plutarch
+To avoid criticism, do nothing, say nothing, be nothing.   - Elbert Hubbard
 
 <!-- Randomly taken from quotations.md -->
 
