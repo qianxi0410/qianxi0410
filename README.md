@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-09</kbd>
+<kbd>2022-03-10</kbd>
 
-An ant on the move does more than a dozing ox   - Laozi
+Absence makes the heart grow fonder.   - Thomas Haynes Bayly
 
 <!-- Randomly taken from quotations.md -->
 
