@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-10</kbd>
+<kbd>2022-03-11</kbd>
 
-Absence makes the heart grow fonder.   - Thomas Haynes Bayly
+The world is round so that friendship may encircle it.   - Pierre Teilhard de Chardin
 
 <!-- Randomly taken from quotations.md -->
 
