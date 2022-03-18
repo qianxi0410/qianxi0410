@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Rust
 - 🌱 I’m currently learning front & back end's black magic
-- 📫 How to reach me: [blog](https://blog.qianx1.xyz)
+- 📫 How to reach me: no way !
 - 🤔 Manjaro Linux User
 
 <div id="weather">西安市&nbsp;&nbsp;晴☀️&nbsp;&nbsp;8℃ 🥶</div>
