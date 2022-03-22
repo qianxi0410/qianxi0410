@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-21</kbd>
+<kbd>2022-03-22</kbd>
 
-If opportunity doesn't knock, build a door.   - Milton Berle
+Memory is the mother of all wisdom.   - Samuel Johnson
 
 <!-- Randomly taken from quotations.md -->
 
