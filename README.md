@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: no way !
 - 🤔 Manjaro Linux User
 
-<div id="weather">西安市&nbsp;&nbsp;阴☁️&nbsp;&nbsp;7℃ 🥶</div>
+<div id="weather">西安市&nbsp;&nbsp;阴☁️&nbsp;&nbsp;8℃ 🥶</div>
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
