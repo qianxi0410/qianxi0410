@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-23</kbd>
+<kbd>2022-03-24</kbd>
 
-Your big opportunity may be right where you are now.   - Napoleon Hill
+We aim above the mark to hit the mark.   - Ralph Waldo Emerson
 
 <!-- Randomly taken from quotations.md -->
 
