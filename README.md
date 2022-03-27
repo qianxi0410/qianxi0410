@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-26</kbd>
+<kbd>2022-03-27</kbd>
 
-All human wisdom is summed up in two words; wait and hope.   - Alexandre Dumas
+Life is 10% what happens to you and 90% how you react to it.   - Chuck Swindoll
 
 <!-- Randomly taken from quotations.md -->
 
