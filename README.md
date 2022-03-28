@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-27</kbd>
+<kbd>2022-03-28</kbd>
 
-Life is 10% what happens to you and 90% how you react to it.   - Chuck Swindoll
+My friends are my estate.   - Emily Dickinson
 
 <!-- Randomly taken from quotations.md -->
 
