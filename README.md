@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-03-30</kbd>
+<kbd>2022-03-31</kbd>
 
-Be the change that you want to see in the world.   - Mahatma Gandhi
+Do not turn back when you are just at the goal.   - Publilius Syrus
 
 <!-- Randomly taken from quotations.md -->
 
