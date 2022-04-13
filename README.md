@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-04-12</kbd>
+<kbd>2022-04-13</kbd>
 
-Never accept ultimatums, conventional wisdom, or absolutes.   - Christopher Reeve
+Marriage: A friendship recognized by the police.   - Robert Louis Stevenson
 
 <!-- Randomly taken from quotations.md -->
 
