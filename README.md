@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-04-17</kbd>
+<kbd>2022-04-18</kbd>
 
-Write your plans in pencil and give God the eraser.   - Paulo Coelho
+Only I can change my life. No one can do it for me.   - Carol Burnett
 
 <!-- Randomly taken from quotations.md -->
 
