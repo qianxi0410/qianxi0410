@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-04-21</kbd>
+<kbd>2022-04-22</kbd>
 
-The truest wisdom is a resolute determination.   - Napoleon
+If there is no struggle, there is no progress.   - Frederick Douglass
 
 <!-- Randomly taken from quotations.md -->
 
