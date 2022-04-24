@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-04-23</kbd>
+<kbd>2022-04-24</kbd>
 
-Keep your eyes on the stars and your feet on the ground.   - Theodore Roosevelt
+To be great is to be misunderstood.   - Ralph Waldo Emerson
 
 <!-- Randomly taken from quotations.md -->
 
