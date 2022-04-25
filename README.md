@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-04-24</kbd>
+<kbd>2022-04-25</kbd>
 
-To be great is to be misunderstood.   - Ralph Waldo Emerson
+Friendship is essentially a partnership.   - Aristotle
 
 <!-- Randomly taken from quotations.md -->
 
