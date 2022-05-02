@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-01</kbd>
+<kbd>2022-05-02</kbd>
 
-Goals are the fuel in the furnace of achievement.   - Brian Tracy
+He who talks more is sooner exhausted.   - Laozi
 
 <!-- Randomly taken from quotations.md -->
 
