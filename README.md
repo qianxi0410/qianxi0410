@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-02</kbd>
+<kbd>2022-05-03</kbd>
 
-He who talks more is sooner exhausted.   - Laozi
+It is not wisdom but Authority that makes a law.   - Thomas Hobbes
 
 <!-- Randomly taken from quotations.md -->
 
