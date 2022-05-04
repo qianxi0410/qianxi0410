@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-03</kbd>
+<kbd>2022-05-04</kbd>
 
-It is not wisdom but Authority that makes a law.   - Thomas Hobbes
+To see things in the seed, that is genius.   - Laozi
 
 <!-- Randomly taken from quotations.md -->
 
