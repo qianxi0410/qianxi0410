@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-04</kbd>
+<kbd>2022-05-05</kbd>
 
-To see things in the seed, that is genius.   - Laozi
+You teach best what you most need to learn.   - Richard Bach
 
 <!-- Randomly taken from quotations.md -->
 
