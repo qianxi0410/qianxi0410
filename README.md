@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-10</kbd>
+<kbd>2022-05-11</kbd>
 
-You can't choose up sides on a round world.   - Wayne Dyer
+Believe you can and you're halfway there.   - Theodore Roosevelt
 
 <!-- Randomly taken from quotations.md -->
 
