@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-15</kbd>
+<kbd>2022-05-16</kbd>
 
-To be great is to be misunderstood.   - Ralph Waldo Emerson
+A man sees in the world what he carries in his heart.   - Johann Wolfgang von Goethe
 
 <!-- Randomly taken from quotations.md -->
 
