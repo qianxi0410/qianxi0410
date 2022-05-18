@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-17</kbd>
+<kbd>2022-05-18</kbd>
 
-Nothing great was ever achieved without enthusiasm.   - Ralph Waldo Emerson
+Friendship multiplies the good of life and divides the evil.   - Baltasar Gracián
 
 <!-- Randomly taken from quotations.md -->
 
