@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-19</kbd>
+<kbd>2022-05-20</kbd>
 
-Those who cannot learn from history are doomed to repeat it.   - George Santayana
+Be kind whenever possible. It is always possible.   - Dalai Lama
 
 <!-- Randomly taken from quotations.md -->
 
