@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-21</kbd>
+<kbd>2022-05-22</kbd>
 
-God has given you one face, and you make yourself another.   - William Shakespeare
+All serious daring starts from within.   - Harriet Beecher Stowe
 
 <!-- Randomly taken from quotations.md -->
 
