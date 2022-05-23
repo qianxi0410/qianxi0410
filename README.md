@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-22</kbd>
+<kbd>2022-05-23</kbd>
 
-All serious daring starts from within.   - Harriet Beecher Stowe
+Silence is deep as Eternity; Speech is shallow as Time.   - Thomas Carlyle
 
 <!-- Randomly taken from quotations.md -->
 
