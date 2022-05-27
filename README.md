@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-26</kbd>
+<kbd>2022-05-27</kbd>
 
-Light tomorrow with today!   - Elizabeth Browning
+The path to success is to take massive, determined action.   - Tony Robbins
 
 <!-- Randomly taken from quotations.md -->
 
