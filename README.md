@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-05-29</kbd>
+<kbd>2022-05-30</kbd>
 
-No day in which you learn something is a complete loss.   - David Eddings
+Think like a man of action; act like a man of thought.   - Henri Bergson
 
 <!-- Randomly taken from quotations.md -->
 
