@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-06-07</kbd>
+<kbd>2022-06-08</kbd>
 
-Don't cry because it's over. Smile because it happened.   - Dr. Seuss
+There is only one happiness in life, to love and be loved.   - George Sand
 
 <!-- Randomly taken from quotations.md -->
 
