@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-06-12</kbd>
+<kbd>2022-06-13</kbd>
 
-Nature and books belong to the eyes that see them.   - Ralph Waldo Emerson
+When in doubt, tell the truth.   - Mark Twain
 
 <!-- Randomly taken from quotations.md -->
 
