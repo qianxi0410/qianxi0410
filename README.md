@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1614056794/14423/cat-roomba.gif?1614056794" width="28" /> Daily Quotations </h3>
 
-<kbd>2022-06-19</kbd>
+<kbd>2022-06-20</kbd>
 
-Quality means doing it right when no one is looking.   - Henry Ford
+Wisdom is oftentimes nearer when we stoop than when we soar.   - William Wordsworth
 
 <!-- Randomly taken from quotations.md -->
 
